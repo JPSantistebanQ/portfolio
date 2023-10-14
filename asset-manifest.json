@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.34fc4b6f.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.358d72c6.js",
+    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.f45adb5a.css",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.531c8963.js",
     "static/media/profile-light.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-light.78020749d6a09db20e93.jpg",
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
-    "main.34fc4b6f.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.34fc4b6f.css.map",
-    "main.358d72c6.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.358d72c6.js.map"
+    "main.f45adb5a.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.f45adb5a.css.map",
+    "main.531c8963.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.531c8963.js.map"
   },
   "entrypoints": [
-    "static/css/main.34fc4b6f.css",
-    "static/js/main.358d72c6.js"
+    "static/css/main.f45adb5a.css",
+    "static/js/main.531c8963.js"
   ]
 }
