@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.3751f7e5.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.945406ca.js",
+    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.f0b551a6.css",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.b47d198a.js",
     "static/media/logo-unprg.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unprg.37b765817c253c474111.png",
     "static/media/logo-unmsm.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unmsm.7ba8cdfe4d4dc636fb27.png",
+    "static/media/logo-sunarp.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-sunarp.f33b95bd333ea3e79617.png",
     "static/media/logo-unprg-bn.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unprg-bn.cea9cac57b5cd8d43d7f.png",
     "static/media/profile-light.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-light.78020749d6a09db20e93.jpg",
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
-    "main.3751f7e5.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.3751f7e5.css.map",
-    "main.945406ca.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.945406ca.js.map"
+    "main.f0b551a6.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.f0b551a6.css.map",
+    "main.b47d198a.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.b47d198a.js.map"
   },
   "entrypoints": [
-    "static/css/main.3751f7e5.css",
-    "static/js/main.945406ca.js"
+    "static/css/main.f0b551a6.css",
+    "static/js/main.b47d198a.js"
   ]
 }
