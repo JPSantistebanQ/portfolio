@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.f0b551a6.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.1c463f7e.js",
+    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.8cae50d3.css",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.686ff1b7.js",
     "static/media/logo-unprg.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unprg.37b765817c253c474111.png",
     "static/media/logo-unmsm.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unmsm.7ba8cdfe4d4dc636fb27.png",
     "static/media/logo-sunarp.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-sunarp.f33b95bd333ea3e79617.png",
@@ -9,11 +9,11 @@
     "static/media/profile-light.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-light.78020749d6a09db20e93.jpg",
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
-    "main.f0b551a6.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.f0b551a6.css.map",
-    "main.1c463f7e.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.1c463f7e.js.map"
+    "main.8cae50d3.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.8cae50d3.css.map",
+    "main.686ff1b7.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.686ff1b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0b551a6.css",
-    "static/js/main.1c463f7e.js"
+    "static/css/main.8cae50d3.css",
+    "static/js/main.686ff1b7.js"
   ]
 }
