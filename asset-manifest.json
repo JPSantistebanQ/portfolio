@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.4a79a068.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.1271fa08.js",
+    "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.64f663f1.css",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.17f9bae0.js",
+    "static/media/devicon.svg?iehcku": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.de33ff67547800466a48.svg",
+    "static/media/devicon.woff?iehcku": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
+    "static/media/devicon.ttf?iehcku": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.161b6f3376d6ce5c517d.ttf",
     "static/media/logo-unprg.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unprg.37b765817c253c474111.png",
     "static/media/logo-unmsm.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unmsm.7ba8cdfe4d4dc636fb27.png",
     "static/media/logo-sunarp.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-sunarp.f33b95bd333ea3e79617.png",
@@ -9,11 +12,11 @@
     "static/media/profile-light.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-light.78020749d6a09db20e93.jpg",
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
-    "main.4a79a068.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.4a79a068.css.map",
-    "main.1271fa08.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.1271fa08.js.map"
+    "main.64f663f1.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.64f663f1.css.map",
+    "main.17f9bae0.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.17f9bae0.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a79a068.css",
-    "static/js/main.1271fa08.js"
+    "static/css/main.64f663f1.css",
+    "static/js/main.17f9bae0.js"
   ]
 }
