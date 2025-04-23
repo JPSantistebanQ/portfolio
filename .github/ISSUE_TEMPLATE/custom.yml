@@ -6,7 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        <img src="https://github.com/JPSantistebanQ/portfolio/blob/main/logo512.png?raw=true"> Thanks for taking the time to fill out this bug report!
+        <img src="https://github.com/JPSantistebanQ/portfolio/blob/main/logo512.png?raw=true" alt="logo" width="50" height="50">
+        Thanks for taking the time to fill out this bug report!
+        
   - type: input
     id: contact
     attributes:
