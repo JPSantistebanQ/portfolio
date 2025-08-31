@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.370a814c.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.2c96fc2c.js",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.d0c5dd55.js",
     "static/media/devicon.svg?iehcku": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.de33ff67547800466a48.svg",
     "static/media/devicon.woff?iehcku": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.25bdb9cbf8e5f9b4dde9.woff",
     "static/media/devicon.ttf?iehcku": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.161b6f3376d6ce5c517d.ttf",
@@ -18,10 +18,10 @@
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
     "main.370a814c.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.370a814c.css.map",
-    "main.2c96fc2c.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.2c96fc2c.js.map"
+    "main.d0c5dd55.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.d0c5dd55.js.map"
   },
   "entrypoints": [
     "static/css/main.370a814c.css",
-    "static/js/main.2c96fc2c.js"
+    "static/js/main.d0c5dd55.js"
   ]
 }
