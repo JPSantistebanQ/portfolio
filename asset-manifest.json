@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.62b3656c.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.ecbfa416.js",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.d632decb.js",
     "static/media/devicon.svg?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.10e33a3796c872bc312e.svg",
     "static/media/devicon.eot?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.bb0c9256aeb8aecf3ba6.eot",
     "static/media/devicon.woff?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.e4d86e063cb00ba23862.woff",
     "static/media/devicon.ttf?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.685a2d4fcee813854715.ttf",
     "static/media/badge_github_foundations.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_github_foundations.d3fdf6aaa449f6865740.png",
+    "static/media/logo-globant.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-globant.f950746a80a440521680.png",
     "static/media/badge_google_it_support.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_google_it_support.62668e0433e7ef38be96.png",
     "static/media/logo-unprg.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unprg.37b765817c253c474111.png",
     "static/media/logo-unmsm.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unmsm.7ba8cdfe4d4dc636fb27.png",
@@ -19,10 +20,10 @@
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
     "main.62b3656c.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.62b3656c.css.map",
-    "main.ecbfa416.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.ecbfa416.js.map"
+    "main.d632decb.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.d632decb.js.map"
   },
   "entrypoints": [
     "static/css/main.62b3656c.css",
-    "static/js/main.ecbfa416.js"
+    "static/js/main.d632decb.js"
   ]
 }
