@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.ba880ff5.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.4939e80e.js",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.da20523d.js",
     "static/media/devicon.svg?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.10e33a3796c872bc312e.svg",
     "static/media/devicon.eot?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.bb0c9256aeb8aecf3ba6.eot",
     "static/media/devicon.woff?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.e4d86e063cb00ba23862.woff",
@@ -17,14 +17,15 @@
     "static/media/badge_azure_fundamentals.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_azure_fundamentals.dd49b3c54249c87368c6.png",
     "static/media/adobe-qr-code.png": "https://jpsantistebanq.github.io/portfolio/static/media/adobe-qr-code.1ccf9a972541f14ad974.png",
     "static/media/badge_postman_fundamentals.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_postman_fundamentals.ff162967433214606d23.png",
+    "static/media/badge_aws_knowledge_serverless.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_aws_knowledge_serverless.fe3ec389d6cfa1967008.png",
     "static/media/profile-light.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-light.78020749d6a09db20e93.jpg",
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
     "main.ba880ff5.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.ba880ff5.css.map",
-    "main.4939e80e.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.4939e80e.js.map"
+    "main.da20523d.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.da20523d.js.map"
   },
   "entrypoints": [
     "static/css/main.ba880ff5.css",
-    "static/js/main.4939e80e.js"
+    "static/js/main.da20523d.js"
   ]
 }
