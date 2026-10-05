@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://jpsantistebanq.github.io/portfolio/static/css/main.ba880ff5.css",
-    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.9ce332da.js",
+    "main.js": "https://jpsantistebanq.github.io/portfolio/static/js/main.4e9706ae.js",
     "static/media/devicon.svg?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.10e33a3796c872bc312e.svg",
     "static/media/devicon.eot?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.bb0c9256aeb8aecf3ba6.eot",
     "static/media/devicon.woff?qd25fp": "https://jpsantistebanq.github.io/portfolio/static/media/devicon.e4d86e063cb00ba23862.woff",
@@ -14,6 +14,7 @@
     "static/media/badge_hashicorp_terraform.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_hashicorp_terraform.bd4d17aa9b881047ce2e.png",
     "static/media/logo-sunarp.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-sunarp.f33b95bd333ea3e79617.png",
     "static/media/logo-unprg-bn.png": "https://jpsantistebanq.github.io/portfolio/static/media/logo-unprg-bn.cea9cac57b5cd8d43d7f.png",
+    "static/media/badge_aws_ai_practitioner.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_aws_ai_practitioner.5885bdb1bb1ae4f6867d.png",
     "static/media/badge_azure_fundamentals.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_azure_fundamentals.dd49b3c54249c87368c6.png",
     "static/media/adobe-qr-code.png": "https://jpsantistebanq.github.io/portfolio/static/media/adobe-qr-code.1ccf9a972541f14ad974.png",
     "static/media/badge_postman_fundamentals.png": "https://jpsantistebanq.github.io/portfolio/static/media/badge_postman_fundamentals.ff162967433214606d23.png",
@@ -23,10 +24,10 @@
     "static/media/profile-dark.jpg": "https://jpsantistebanq.github.io/portfolio/static/media/profile-dark.eb5ce82c3041abb446da.jpg",
     "index.html": "https://jpsantistebanq.github.io/portfolio/index.html",
     "main.ba880ff5.css.map": "https://jpsantistebanq.github.io/portfolio/static/css/main.ba880ff5.css.map",
-    "main.9ce332da.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.9ce332da.js.map"
+    "main.4e9706ae.js.map": "https://jpsantistebanq.github.io/portfolio/static/js/main.4e9706ae.js.map"
   },
   "entrypoints": [
     "static/css/main.ba880ff5.css",
-    "static/js/main.9ce332da.js"
+    "static/js/main.4e9706ae.js"
   ]
 }
